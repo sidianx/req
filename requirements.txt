@@ -54,7 +54,6 @@ qrcode
 redis
 requests
 search-engine-parser
-sqlalchemy<=1.3.23
 speedtest-cli>=2.1.3
 scipy
 TgCrypto
